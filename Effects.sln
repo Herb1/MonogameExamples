@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26228.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Effects", "Effects\Effects.csproj", "{27F366C5-E5A4-492B-894C-D50CFC879388}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27F366C5-E5A4-492B-894C-D50CFC879388}.Debug|x86.ActiveCfg = Debug|x86
+		{27F366C5-E5A4-492B-894C-D50CFC879388}.Debug|x86.Build.0 = Debug|x86
+		{27F366C5-E5A4-492B-894C-D50CFC879388}.Release|x86.ActiveCfg = Release|x86
+		{27F366C5-E5A4-492B-894C-D50CFC879388}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
